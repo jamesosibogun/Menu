@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Menu_array">
+        <item>Keto</item>
+        <item>Vegan</item>
+        <item>Vegetarian</item>
+        <item>Fish</item>
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+    <string name="app_name">menu</string>
+</resources>
